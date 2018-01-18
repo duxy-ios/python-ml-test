@@ -3,3 +3,6 @@ sklearn
 keras
 tensorflow
 pandas
+sklearn
+numpy
+h5py
