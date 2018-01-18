@@ -1,0 +1,4 @@
+jieba
+keras
+tensorflow
+pandas
