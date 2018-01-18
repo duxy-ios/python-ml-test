@@ -1,4 +1,5 @@
 jieba
+sklearn
 keras
 tensorflow
 pandas
