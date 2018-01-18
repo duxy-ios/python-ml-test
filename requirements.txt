@@ -2,3 +2,5 @@ jieba
 keras
 tensorflow
 pandas
+sklearn
+numpy
