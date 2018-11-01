@@ -6,3 +6,4 @@ pandas
 sklearn
 numpy
 h5py
+schedule
