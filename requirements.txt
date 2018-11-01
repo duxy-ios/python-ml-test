@@ -7,3 +7,5 @@ sklearn
 numpy
 h5py
 schedule
+flask
+flask_restful
